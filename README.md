@@ -19,6 +19,10 @@
 - 📫 How to reach me **awiten.chosengrace@gmail.com**
 - ⚡ Fun fact **fact you... jk, the fun fact about me is that I hate swearing**
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRiaHh0YzF4NDNqZ3JtdWFmNnFqcnVoMXV1cWx5czd1Z3JtZjhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nFLW7PNGgN3lI68rdv/giphy.gif"  />
+</div>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chzn.ichi) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chozen.awiten) 
