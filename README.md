@@ -10,12 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=chzn-ichi&label=Profile%20views&color=0e75b6&style=flat" alt="chzn-ichi" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chzn-ichi" alt="chzn-ichi" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **motivating myself**
 - 🌱 I’m currently learning **networking, database, website development, cybersecurity, actually whatever our instructors want us to learn**
 - 🤝 I’m looking for help with **my life choices, lol**
