@@ -73,11 +73,11 @@
 <img 
   src="https://media.giphy.com/media/IU5ApmC4e6wEw/giphy.gif"
   alt="Developer gif"
-  width="260"
+  width="220"
   align="right"
-  style="margin-left: 20px;"
 />
 ![](https://github-contributor-stats.vercel.app/api?username=chzn-ichi&limit=5&theme=light&combine_all_yearly_contributions=true)
 <br clear="right" />
+
 
 
