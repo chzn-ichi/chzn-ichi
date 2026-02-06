@@ -41,8 +41,6 @@
 
 <br clear="left" />
 
-
-
 ## 🐼 Connect With Me
 
 <p align="center">
@@ -71,8 +69,7 @@
 </p>
 
 
-## 🐼 GitHub Stats
-
+### 🐼 Top Contributed Repo
 <img 
   src="https://media.giphy.com/media/IU5ApmC4e6wEw/giphy.gif"
   alt="Developer gif"
@@ -80,12 +77,7 @@
   align="right"
   style="margin-left: 20px;"
 />
-
-![](https://github-readme-stats.vercel.app/api?username=chzn-ichi&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chzn-ichi&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chzn-ichi&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-contributor-stats.vercel.app/api?username=chzn-ichi&limit=5&theme=light&combine_all_yearly_contributions=true)
 <br clear="right" />
 
-### 🐼 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chzn-ichi&limit=5&theme=light&combine_all_yearly_contributions=true)
+
