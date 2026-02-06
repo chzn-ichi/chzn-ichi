@@ -1,61 +1,91 @@
-
 <!-- Snake animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chzn-ichi/chzn-ichi/output/snake.svg?palette=github-light" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/chzn-ichi/chzn-ichi/output/snake.svg?palette=github-light" alt="Snake animation" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Chosen Grace Awiten</h1>
-<h3 align="center">An IT student that has no clue on what she's doing.</h3>
+<h1 align="center">Hi, I'm Chosen Grace Awiten</h1>
+<h3 align="center">medyo IT Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chzn-ichi&label=Profile%20views&color=0e75b6&style=flat" alt="chzn-ichi" />
+  <img src="https://komarev.com/ghpvc/?username=chzn-ichi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 
-- 🔭 I’m currently working on **motivating myself**
-- 🌱 I’m currently learning **networking, database, website development, cybersecurity, actually whatever our instructors want us to learn**
-- 🤝 I’m looking for help with **my life choices, lol**
-- 💬 Ask me about **anything**
-- 📫 How to reach me **awiten.chosengrace@gmail.com**
-- ⚡ Fun fact **fact you... jk, the fun fact about me is that I hate swearing**
+## 🐼 Introduction
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRiaHh0YzF4NDNqZ3JtdWFmNnFqcnVoMXV1cWx5czd1Z3JtZjhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nFLW7PNGgN3lI68rdv/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/83NloCyRg8xpuIAhRL/giphy.gif" width="300" alt="Coding illustration"/>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chzn.ichi) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chozen.awiten) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chzn.ichi) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chosen-grace-awiten) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chznichi) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awiten.chosengrace@gmail.com)
+<p align="center">
+  I'm <b>Chosen Grace Awiten</b>, a 19-year-old student at the <b>University of Science and Technology of Southern Philippines (USTP)</b>.<br><br>
+  An aspiring <b>Web and Software Developer</b> who is still learning.<br>
+  I hope to use my passion in IT to be useful to <b>God and to society</b>.
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-# 📊 GitHub Stats:
+## 🐼 About Me
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5sdGtyNjd0ZWd3dXdzdDF3ZGowdnQ4ZmUzdjkweXl5bnBpbHl0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CoqJiyzf0wZ64J2t8D/giphy.gif"
+  alt="Workspace gif"
+  width="300"
+  align="left"
+  style="margin-right: 20px;"
+/>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;🎓 <b>Student at USTP-CDO</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;💻 Into networking, databases, web dev, cybersecurity<i> (depende sa instructor)</i><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;🛠 Interested in both <b>front-end</b> and <b>back-end</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;📈 Learning through personal & academic projects<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;📩 Reach me at <b>awiten.chosengrace@gmail.com</b>
+
+<br clear="left" />
+
+
+
+## 🐼 Connect With Me
+
+<p align="center">
+  <a href="https://discord.gg/chzn.ichi" target="_blank">
+    <img width="45px" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/chozen.awiten" target="_blank">
+    <img width="45px" src="https://github.com/user-attachments/assets/3c389fa1-24eb-451a-8b20-0869474187cf" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/chosen-grace-awiten" target="_blank">
+    <img width="45px" src="https://github.com/user-attachments/assets/b3572b94-1808-49b1-a140-906311b5de5e" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://www.instagram.com/chzn.ichi/" target="_blank">
+    <img width="45px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+  </a>
+</p>
+
+
+## 🐼 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,c,mysql,github,figma,vscode&perline=6" />
+</p>
+
+
+## 🐼 GitHub Stats
+
+<img 
+  src="https://media.giphy.com/media/IU5ApmC4e6wEw/giphy.gif"
+  alt="Developer gif"
+  width="260"
+  align="right"
+  style="margin-left: 20px;"
+/>
+
 ![](https://github-readme-stats.vercel.app/api?username=chzn-ichi&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chzn-ichi&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chzn-ichi&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+<br clear="right" />
+
+### 🐼 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chzn-ichi&limit=5&theme=light&combine_all_yearly_contributions=true)
-
----
-
-
