@@ -19,8 +19,8 @@
 
 <p align="center">
   I'm <b>Chosen Grace Awiten</b>, a 19-year-old student at the <b>University of Science and Technology of Southern Philippines (USTP)</b>.<br><br>
-  An aspiring <b>Web and Software Developer</b> who is still learning.<br>
-  I hope to use my passion in IT to be useful to <b>God and to society</b>.
+  An aspiring <b>Web and Software Developer</b>.<br>
+  I hope to use my passion in IT to be useful <b>to God and to the society</b>.
 </p>
 
 
@@ -34,8 +34,8 @@
 />
 
   &nbsp;&nbsp;&nbsp;&nbsp;🎓 <b>Student at USTP-CDO</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;💻 Into networking, databases, web dev, cybersecurity<i> (depende sa instructor)</i><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;🛠 Interested in both <b>front-end</b> and <b>back-end</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;💻 Into networking, databases, web dev, cybersecurity<i> (depende sa instructor ug sa syllabus)</i><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;🛠 Interested in both <b>front-end</b> and <b>back-end</b> development<br>
   &nbsp;&nbsp;&nbsp;&nbsp;📈 Learning through personal & academic projects<br>
   &nbsp;&nbsp;&nbsp;&nbsp;📩 Reach me at <b>awiten.chosengrace@gmail.com</b>
 
