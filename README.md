@@ -44,7 +44,7 @@
 ## 🐼 Connect With Me
 
 <p align="center">
-  <a href="https://discord.gg/chzn.ichi" target="_blank">
+  <a href="https://discordapp.com/users/909312598867079179" target="_blank">
     <img width="45px" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" />
   </a>
   &nbsp;&nbsp;
