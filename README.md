@@ -85,13 +85,6 @@
       <img alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=chzn-ichi&show_icons=true&theme=default&include_all_commits=true&count_private=true" height="165">
     </picture>
   </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chzn-ichi&layout=compact&theme=dark&langs_count=5">
-      <img alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=chzn-ichi&layout=compact&theme=default&langs_count=5" height="165">
-    </picture>
-  </a>
 </div>
 <br clear="right" />
 
