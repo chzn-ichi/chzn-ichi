@@ -26,21 +26,21 @@
 
 
 ## 🐼 About Me
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5sdGtyNjd0ZWd3dXdzdDF3ZGowdnQ4ZmUzdjkweXl5bnBpbHl0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CoqJiyzf0wZ64J2t8D/giphy.gif"
-  alt="Workspace gif"
-  width="300"
-  align="left"
-  style="margin-right: 20px;"
-/>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;🎓 <b>Student at USTP-CDO</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;💻 Into networking, databases, web dev, cybersecurity<i> (depende sa instructor ug sa syllabus)</i><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;🛠 Interested in both <b>front-end</b> and <b>back-end</b> development<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;📈 Learning through personal & academic projects<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;📩 Reach me at <b>awiten.chosengrace@gmail.com</b>
-
-<br clear="left" />
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top; border: 1px solid white">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5sdGtyNjd0ZWd3dXdzdDF3ZGowdnQ4ZmUzdjkweXl5bnBpbHl0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CoqJiyzf0wZ64J2t8D/giphy.gif"
+           width="300" style="display: block;" />
+    </td>
+    <td style="vertical-align: top; border: 1px solid white">
+      🎓 <b>Student at USTP-CDO</b><br><br>
+      💻 Into networking, databases, web dev, cybersecurity <i>(depende sa syllabus)</i><br><br>
+      🛠 Interested in both <b>front-end</b> and <b>back-end</b> development<br><br>
+      📈 Learning through personal & academic projects<br><br>
+      📩 Reach me at <b>awiten.chosengrace@gmail.com</b>
+    </td>
+  </tr>
+</table>
 
 ## 🐼 Connect With Me
 
