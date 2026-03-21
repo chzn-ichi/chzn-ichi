@@ -1,7 +1,8 @@
 <!-- Snake animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chzn-ichi/chzn-ichi/output/snake.svg?palette=github-light" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/chzn-ichi/chzn-ichi/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 <h1 align="center">Hi, I'm Chosen Grace Awiten</h1>
 <h3 align="center">medyo IT Student</h3>
@@ -76,8 +77,27 @@
   width="220"
   align="right"
 />
-![](https://github-contributor-stats.vercel.app/api?username=chzn-ichi&limit=5&theme=light&combine_all_yearly_contributions=true)
+<br>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chzn-ichi&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+      <img alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=chzn-ichi&show_icons=true&theme=default&include_all_commits=true&count_private=true" height="165">
+    </picture>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chzn-ichi&layout=compact&theme=dark&langs_count=5">
+      <img alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=chzn-ichi&layout=compact&theme=default&langs_count=5" height="165">
+    </picture>
+  </a>
+</div>
 <br clear="right" />
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&text=code%20ni%20chzn&fontSize=18&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=dark" width="100%" />
+</div>
 
 
 
