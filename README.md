@@ -22,7 +22,6 @@
 
 <p align="center">
   Aspiring <b>Web & Software Developer</b><br>
-  Exploring different fields in IT one syllabus at a time<br>
   Hoping to use technology to serve <b>God and society</b>
 </p>
 
