@@ -50,8 +50,6 @@
 </tr>
 </table>
 
----
-
 # 🐼 Connect With Me
 
 <p align="center">
