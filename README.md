@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=chzn-ichi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
+
 
 # 🐼 Introduction
 
@@ -68,7 +68,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50px"/>
   </a>
 </p>
----
+
 
 # 🐼 Tools & Technologies
 
@@ -98,7 +98,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=chzn-ichi&theme=flat&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
----
+
 
 # 🐼 Favorite Quote
 
