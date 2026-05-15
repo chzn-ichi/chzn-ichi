@@ -25,7 +25,6 @@
   Hoping to use technology to serve <b>God and society</b>
 </p>
 
----
 
 # 🐼 About Me
 
