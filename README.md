@@ -4,8 +4,8 @@
 </p>
 
 <!-- 🌸 Header -->
-<h1 align="center">Hi, I'm Chosen Grace Awiten 👋</h1>
-<h3 align="center">medyo IT Student 💻</h3>
+<h1 align="center">Hi, I'm Chosen Grace Awiten</h1>
+<h3 align="center">medyo IT Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chzn-ichi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
