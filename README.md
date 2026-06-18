@@ -76,21 +76,19 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,c,mysql,github,figma,vscode,linux&perline=6" />
 </p>
 
----
+
 
 # 🐼 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=chzn-ichi&theme=default&hide_border=false&include_all_commits=false&count_private=false" height="170" />
-  
-  <img src="https://streak-stats.demolab.com/?user=chzn-ichi&theme=default&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=chzn-ichi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chzn-ichi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chzn-ichi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170"/>
 </p>
 
----
+
 
 # 🐼 Favorite Quote
 
